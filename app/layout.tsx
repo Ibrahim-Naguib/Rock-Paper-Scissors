@@ -9,6 +9,7 @@ const Barlow = Barlow_Semi_Condensed({
 
 export const metadata = {
   title: "Rock, Paper, Scissors",
+  description: "Rock, Paper, Scissors Game"
 };
 
 export default function RootLayout({
